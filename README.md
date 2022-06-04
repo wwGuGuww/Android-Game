@@ -1,2 +1,3 @@
 # Android Game
- Pikachu mobile game with java. Homework... Görmek için bu projeyi c:/Users/AndroidStudioProjects in içine atmanız gerekir, ya da android stüdyoda files new deyip bu klasör her neredeyse oraya girip bunu seçmeniz gerekir.
+
+ Pikachu mobile game with java. Homework... For using this project you must move file to c:/Users/AndroidStudioProjects adress or in android studio you must fallow /files/new and find where is your file, when you find it move them there.
